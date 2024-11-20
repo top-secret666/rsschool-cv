@@ -1,24 +1,64 @@
-## Stukalova Dana Andreevna
+# Dana Stukalova
+## Front-End Developer
 
-**Contacts:**
+![Profile Photo](assets/img/profile-photo.jpg)
 
-* **Email:** chupacabra2.0666@gmail.com
-* **Phone number:** +375292710932
-* **Discord:** ufo
-* **GitHub:** https://github.com/top-secret666
+## 🎯 About Me
 
-** About yourself:**
+Passionate front-end developer and 2nd year student at Vitebsk State Technical University, Faculty of Information Technology and Robotics. I combine strong technical skills with creative problem-solving abilities. My focus is on delivering clean, efficient code while continuously learning new technologies.
 
-I am a 2nd year student of Vitebsk State Technical University, Faculty of Information Technology and Robotics, specialty “Information Technology". I am passionate about web application development and strive to develop in the field of front-end development. In my work, I value accuracy, efficiency, teamwork, and I believe that the ability to learn quickly and hard work are one of my main advantages.
+## 📞 Contact Information
 
-**Skills:**
+- 📧 Email: chupacabra2.0666@gmail.com
+- 📱 Phone: +375292710932
+- 💬 Discord: ufo
+- 🔗 GitHub: [top-secret666](https://github.com/top-secret666)
 
-* **Programming languages:** C++, C#, JavaScript, Java, HTML, CSS
-* **Development Tools:** Visual Studio, Visual Studio Code, CodeBlocks, Git, IntelliJ IDEA, GitHub 
+## 💻 Technical Skills
 
-**Sample code:**
-* **The game "Rock Paper Scissors Lizard Spock"** C++
-  
+### Programming Languages
+- JavaScript
+- C++
+- C#
+- Java
+- HTML/CSS
+
+### Development Tools
+- Visual Studio
+- Visual Studio Code
+- CodeBlocks
+- Git & GitHub
+- IntelliJ IDEA
+
+## 🎓 Education
+
+### Vitebsk State Technical University
+- **Program:** Information Technology
+- **Period:** 2023 - Present
+
+### Online Certifications
+- Complete C++20 Visual and Practical Course (Udemy)
+- Unreal Engine 5 C++ Developer (Udemy)
+- Make an Arduino Robot (Udemy)
+
+## 💼 Projects
+
+### CV Website
+- **Type:** Personal Project
+- **Technologies:** HTML, CSS, JavaScript, Markdown
+- **Repository:** [rsschool-cv](https://github.com/top-secret666/rsschool-cv)
+- **Description:** Personal CV website showcasing my skills and experience
+
+### MALAKA Art Store
+- **Type:** E-commerce Platform
+- **Technologies:** ASP.NET Core, C#
+- **Features:** Product catalog, shopping cart, user authentication
+- **Description:** Full-featured online store for art supplies
+
+## 🌟 Featured Code Sample
+
+The game "Rock Paper Scissors Lizard Spock:
+
 ```cpp
 #include <iostream>
 #include <Windows.h>
@@ -71,24 +111,3 @@ cin >> youChoice;
     return 0;
 }
 ```
-
-**Education:**
-
-* **Vitebsk State Technical University**: Information Technology (2023 - present)
-* **Udemy**: Complete C++20 Visual and Practical Course: Zero to Mastery
-* **Udemy**: Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games
-* **Udemy**: Make an Arduino Robot
-
-**English language:**
-
-* **Level:** Average
-* **Experience:** Active use in work and study.Practice communication skills with native speakers.
-
-**Experience:**
-
-* **Project: “CV”**:: “Development of a simple website in HTML, CSS and JavaScript".
-* **Description:** This is my CV, which I developed using Markdown.
-* **Link to the code:** https://github.com/top-secret666/rsschool-cv
-  
-* **Project: “MALAKA”**:: “Website development on ASP.NETCore".
-* **Description:** This is my art goods store with its own catalog, shopping cart and registration, which I developed using the platform ASP.NET . The C# programming language.
